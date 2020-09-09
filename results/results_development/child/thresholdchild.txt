@@ -1,0 +1,4 @@
+*** Best threshold is: -0.4. PLDA scores of eval x-vectors will 
+**  be clustered using this threshold
+*** DER on dev set using best threshold is: 36.10
+

@@ -1,0 +1,28 @@
+Loading speaker turns from reference RTTMs...
+Loading speaker turns from system RTTMs...
+Loading universal evaluation map...
+Trimming reference speaker turns to UEM scoring regions...
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0105, SPEAKER: speaker260, ONSET: 261.212000, OFFSET: 261.865000, DUR: 0.653000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0105, SPEAKER: speaker260, ONSET: 263.567000, OFFSET: 264.500000, DUR: 0.933000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0105, SPEAKER: speaker259, ONSET: 296.120000, OFFSET: 296.330000, DUR: 0.210000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0105, SPEAKER: speaker259, ONSET: 299.287000, OFFSET: 299.826000, DUR: 0.539000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0126, SPEAKER: speaker307, ONSET: 229.940000, OFFSET: 232.895000, DUR: 2.955000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0126, SPEAKER: speaker307, ONSET: 234.935000, OFFSET: 235.391000, DUR: 0.456000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0126, SPEAKER: speaker307, ONSET: 266.905000, OFFSET: 268.450000, DUR: 1.545000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0175, SPEAKER: speaker459, ONSET: 148.100000, OFFSET: 148.321000, DUR: 0.221000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0175, SPEAKER: speaker458, ONSET: 202.626000, OFFSET: 205.580000, DUR: 2.954000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0175, SPEAKER: speaker459, ONSET: 205.998000, OFFSET: 209.465000, DUR: 3.467000
+Trimming system speaker turns to UEM scoring regions...
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0105, SPEAKER: 2, ONSET: 261.212000, OFFSET: 261.865000, DUR: 0.653000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0105, SPEAKER: 2, ONSET: 263.567000, OFFSET: 264.500000, DUR: 0.933000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0105, SPEAKER: 2, ONSET: 296.120000, OFFSET: 296.330000, DUR: 0.210000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0105, SPEAKER: 2, ONSET: 299.287000, OFFSET: 299.826000, DUR: 0.539000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0126, SPEAKER: 1, ONSET: 229.940000, OFFSET: 232.895000, DUR: 2.955000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0126, SPEAKER: 1, ONSET: 234.935000, OFFSET: 235.391000, DUR: 0.456000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0126, SPEAKER: 1, ONSET: 266.905000, OFFSET: 268.450000, DUR: 1.545000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0175, SPEAKER: 1, ONSET: 148.100000, OFFSET: 148.321000, DUR: 0.221000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0175, SPEAKER: 1, ONSET: 202.626000, OFFSET: 205.580000, DUR: 2.954000
+WARNING: Truncating turn overlapping non-scoring region. TURN: FILE: DH_0175, SPEAKER: 1, ONSET: 205.998000, OFFSET: 209.465000, DUR: 3.467000
+Checking for overlapping reference speaker turns...
+Checking for overlapping system speaker turns...
+Scoring...

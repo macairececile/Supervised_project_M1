@@ -1,0 +1,19 @@
+*** Best threshold is: -0.8. PLDA scores of eval x-vectors will 
+**  be clustered using this threshold
+*** DER on dev set using best threshold is: 7.07
+Performing agglomerative hierarchical clustering (AHC) using threshold -0.8 for DEV...
+diarization/cluster.sh --cmd run.pl --mem 4G --nj 2 --threshold -0.8 --rttm-channel 1 exp/xvector_nnet_1a/xvectors_dihard_dev_2019_track1/plda_scores exp/xvector_nnet_1a/xvectors_dihard_dev_2019_track1/plda_scores
+diarization/cluster.sh: clustering scores
+diarization/cluster.sh: combining labels
+diarization/cluster.sh: computing RTTM
+Clustering finished for DEV. See exp/xvector_nnet_1a/xvectors_dihard_dev_2019_track1/plda_scores/log for logs.
+Performing agglomerative hierarchical clustering (AHC) using threshold -0.8 for EVAL...
+diarization/cluster.sh --cmd run.pl --mem 4G --nj 2 --threshold -0.8 --rttm-channel 1 exp/xvector_nnet_1a/xvectors_dihard_eval_2019_track1/plda_scores exp/xvector_nnet_1a/xvectors_dihard_eval_2019_track1/plda_scores
+diarization/cluster.sh: clustering scores
+diarization/cluster.sh: combining labels
+diarization/cluster.sh: computing RTTM
+Clustering finished for EVAL. See exp/xvector_nnet_1a/xvectors_dihard_eval_2019_track1/plda_scores/log for logs.
+Extracting RTTM files...
+Scoring DEV set RTTM...
+Run finished successfully.
+
